@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Careershift on Terminal</title>
+    <link>//localhost:1313/tags/%23careershift/</link>
+    <description>Recent content in #Careershift on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/tags/%23careershift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Mechanical Engineer to Cybersecurity Beginner - My Ongoing Career Shift</title>
+      <link>//localhost:1313/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</guid>
+      <description>&lt;p&gt;Four years ago, I was working as a &lt;strong&gt;mechanical engineer&lt;/strong&gt;, focused on systems, machines, and processes that you could physically see and touch. It was a solid career—and one I’m still proud of—but something inside me felt restless. I was curious about tech, fascinated by the digital world, and increasingly drawn to the idea of working in &lt;strong&gt;cybersecurity&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Today, I work as an &lt;strong&gt;IAM (Identity and Access Management) Engineer&lt;/strong&gt;. I won’t pretend I have it all figured out. Most days, I still feel like a &lt;strong&gt;beginner&lt;/strong&gt;—and in many ways, I am. But I’ve come far enough to look back and say: I’m glad I took the leap.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
