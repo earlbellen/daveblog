@@ -11,7 +11,7 @@ Author: Daven Earl Bellen
 Four years ago, I was working as a **mechanical engineer**, focused on systems, machines, and processes that you could physically see and touch. It was a solid career—and one I’m still proud of—but something inside me felt restless. I was curious about tech, fascinated by the digital world, and increasingly drawn to the idea of working in **cybersecurity**.
 
 Today, I work as an **IAM (Identity and Access Management) Engineer**. I won’t pretend I have it all figured out. Most days, I still feel like a **beginner**—and in many ways, I am. But I’ve come far enough to look back and say: I’m glad I took the leap.
-![[Pasted image 20250416090243.png]]
+![Image Description](/images/481447166_18033087005536790_5735705168448620462_n.jpg)
 
 ### Why I Took the Leap
 
@@ -37,7 +37,7 @@ You’ll find posts about:
 ### The Gym and the Journey
 
 I’ve always enjoyed going to the gym. In fact, lifting weights played a huge role in shaping my mindset during the career shift. It taught me about **consistency, delayed gratification, and showing up even when it’s hard**. I don’t hit personal records every day—but I show up. The same goes for my tech journey.
-![Image Description](/images/IMG_1707.jpg)
+![[IMG_1707.jpg]]
 
 ### You Don’t Have to Be an Expert to Start
 

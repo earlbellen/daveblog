@@ -5,7 +5,7 @@ import glob
 
 # === Paths ===
 posts_dir = r"D:\Users\Admin\Documents\02_PROJECTS\Blog\daveblog\content\posts"
-attachments_dir = r"D:\Users\Admin\iCloudDrive\iCloud~md~obsidian\Zettelkasten\ATTACHMENTS"
+attachments_dir = r"D:\Users\Admin\iCloudDrive\iCloud~md~obsidian\Zettelkasten\98 ATTACHMENTS"
 static_images_dir = r"D:\Users\Admin\Documents\02_PROJECTS\Blog\daveblog\static\images"
 
 # Ensure destination directory exists
