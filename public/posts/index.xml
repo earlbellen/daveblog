@@ -8,13 +8,6 @@
     <language>en</language>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>/posts/sample/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/sample/</guid>
-      <description>&lt;p&gt;Hey!&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>From Mechanical Engineer to Cybersecurity Beginner - My Ongoing Career Shift</title>
       <link>/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
