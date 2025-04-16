@@ -37,7 +37,7 @@ You’ll find posts about:
 ### The Gym and the Journey
 
 I’ve always enjoyed going to the gym. In fact, lifting weights played a huge role in shaping my mindset during the career shift. It taught me about **consistency, delayed gratification, and showing up even when it’s hard**. I don’t hit personal records every day—but I show up. The same goes for my tech journey.
-![[IMG_1707.jpg]]
+![Image Description](/images/IMG_1707.jpg)
 
 ### You Don’t Have to Be an Expert to Start
 
