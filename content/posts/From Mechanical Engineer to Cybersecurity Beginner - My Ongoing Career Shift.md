@@ -1,11 +1,12 @@
 ---
 title: From Mechanical Engineer to Cybersecurity Beginner - My Ongoing Career Shift
-date: 2025-04-06 22:45
+created: 2025-04-06 22:45
 tags:
   - blog
   - careershift
   - gym
 Author: Daven Earl Bellen
+date: 2025-04-06
 ---
 
 Four years ago, I was working as a **mechanical engineer**, focused on systems, machines, and processes that you could physically see and touch. It was a solid career—and one I’m still proud of—but something inside me felt restless. I was curious about tech, fascinated by the digital world, and increasingly drawn to the idea of working in **cybersecurity**.

@@ -59,7 +59,7 @@ pagination.pagerSize = 5
   # This value can be customized according to Hugo documentation:
   # https://gohugo.io/functions/time/format/
   # Default value (no changes needed):
-  # dateFormat = "2025-04-06 22:45"
+  # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
