@@ -4,9 +4,9 @@ import shutil
 import glob
 
 # === Paths ===
-posts_dir = r"D:\Users\Admin\Documents\02_PROJECTS\Blog\daveblog\content\posts"
+posts_dir = r"D:\Users\Admin\iCloudDrive\01 Projects\Blog\daveblog\content\posts"
 attachments_dir = r"D:\Users\Admin\iCloudDrive\iCloud~md~obsidian\Zettelkasten\98 ATTACHMENTS"
-static_images_dir = r"D:\Users\Admin\Documents\02_PROJECTS\Blog\daveblog\static\images"
+static_images_dir = r"D:\Users\Admin\iCloudDrive\01 Projects\Blog\daveblog\static\images"
 
 # Ensure destination directory exists
 os.makedirs(static_images_dir, exist_ok=True)
