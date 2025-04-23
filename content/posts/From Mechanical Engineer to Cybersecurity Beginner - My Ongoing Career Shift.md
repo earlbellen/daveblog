@@ -8,10 +8,9 @@ tags:
 Author: Daven Earl Bellen
 date: 2025-04-06
 ---
-
 Four years ago, I was working as a **mechanical engineer**, focused on systems, machines, and processes that you could physically see and touch. It was a solid career—and one I’m still proud of—but something inside me felt restless. I was curious about tech, fascinated by the digital world, and increasingly drawn to the idea of working in **cybersecurity**.
 
-![Image Description](/images/481447166_18033087005536790_5735705168448620462_n.jpg)
+![Image Description](/images/Pasted%20image%2020250423140314.png)
 
 Today, I work as an **IAM (Identity and Access Management) Engineer**. I won’t pretend I have it all figured out. Most days, I still feel like a **beginner**—and in many ways, I am. But I’ve come far enough to look back and say: I’m glad I took the leap.
 ### Why I Took the Leap
