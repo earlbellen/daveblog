@@ -22,5 +22,12 @@
       <guid>/tech/</guid>
       <description></description>
     </item>
+    <item>
+      <title>whoami</title>
+      <link>/about/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/other/</guid>
+      <description>&lt;p&gt;davenearl@localhost:~$ whoami&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Daven Earl Bellen&lt;/strong&gt;. I started out as a mechanical engineer and found my way into cybersecurity, where I now work in Identity and Access Management. I&amp;rsquo;m still learning as I go—and this blog is my way of sharing what I’ve picked up along the way. If you&amp;rsquo;re exploring tech or shifting careers, you&amp;rsquo;re in the right place.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h3&gt;&#xA;&lt;h4 id=&#34;leveling-up-with-cybersecurity-learning-platforms&#34;&gt;Leveling up with cybersecurity learning platforms:&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;Link&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;tryhackme.com&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://tryhackme.com/p/davenger&#34;&gt;https://tryhackme.com/p/davenger&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;hackthebox.com&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://app.hackthebox.com/profile/1813317&#34;&gt;https://app.hackthebox.com/profile/1813317&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h4 id=&#34;projects&#34;&gt;Projects&lt;/h4&gt;&#xA;&lt;p&gt;All my public projects are in my Github profile: &lt;a href=&#34;https://github.com/earlbellen&#34;&gt;https://github.com/earlbellen&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

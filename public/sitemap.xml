@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/blog/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/careershift/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</loc>
@@ -23,8 +23,18 @@
     <loc>/tags/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/about/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/tags/credentials/</loc>
+  </url><url>
+    <loc>/tags/cybersecurity/</loc>
+  </url><url>
     <loc>/tech/</loc>
+  </url><url>
+    <loc>/tags/profile/</loc>
+  </url><url>
+    <loc>/about/other/</loc>
   </url>
 </urlset>

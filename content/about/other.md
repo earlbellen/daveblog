@@ -4,11 +4,10 @@ tags:
   - profile
   - credentials
   - cybersecurity
-Author: Daven Earl Bellen
-date: 2025-04-24
+Author: 
 ---
 
-*davenearl@localhost:~$ whoami*
+davenearl@localhost:~$ whoami
 
 I'm **Daven Earl Bellen**. I started out as a mechanical engineer and found my way into cybersecurity, where I now work in Identity and Access Management. I'm still learning as I go—and this blog is my way of sharing what I’ve picked up along the way. If you're exploring tech or shifting careers, you're in the right place. 
 
