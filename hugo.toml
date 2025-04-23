@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "davenearl@blog:~$"
+    title = "Daven Earl Bellen - Blog"
 
     [languages.en.params]
       subtitle = "Daven Earl Blogs!"
