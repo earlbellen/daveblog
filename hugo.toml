@@ -102,7 +102,7 @@ pagination.pagerSize = 5
           url = "/tech"
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "whoami"
           url = "/about"
         [[languages.en.menu.main]]
           identifier = "showcase"
