@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "davenearl.com"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -18,13 +18,13 @@ pagination.pagerSize = 5
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -33,17 +33,17 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  # readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  # Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -68,13 +68,13 @@ pagination.pagerSize = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "Daven Earl Bellen"
+  site = "davenearl.com"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "davenearl@blog:~$"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -92,10 +92,14 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "davenearl@blog:~$"
         logoHomeLink = "/"
 
       [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "tech"
+          name = "Tech"
+          url = "/tech"
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
@@ -104,3 +108,7 @@ pagination.pagerSize = 5
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
+        [[languages.en.menu.main]]
+          identifier = "Blogs"
+          name = "Blogs"
+          url = "/posts"

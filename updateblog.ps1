@@ -2,7 +2,7 @@
 
 # Set variables for Obsidian to Hugo copy
 $sourcePath = "D:\Users\Admin\iCloudDrive\iCloud~md~obsidian\Zettelkasten\07 Blog"
-$destinationPath = "D:\Users\Admin\Documents\02_PROJECTS\Blog\daveblog\content\posts"
+$destinationPath = "D:\Users\Admin\iCloudDrive\01 Projects\Blog\daveblog\content\posts"
 
 # Set Github repo 
 $myrepo = "daveblog"

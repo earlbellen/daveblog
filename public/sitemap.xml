@@ -2,20 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/tags/careershift/</loc>
+    <loc>//localhost:1313/tags/blog/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/tags/careershift/</loc>
   </url><url>
-    <loc>/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/tags/gym/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/gym/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/tech/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
