@@ -77,11 +77,11 @@ pagination.pagerSize = 5
     title = "davenearl@blog:~$"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Daven Earl Blogs!"
       owner = ""
       keywords = ""
       copyright = ""
-      menuMore = "Show more"
+      menuMore = "☰"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
