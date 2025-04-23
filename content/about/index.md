@@ -9,7 +9,7 @@ Author:
 
 davenearl@localhost:~$ whoami
 
-I'm **Daven Earl Bellen**. I started out as a mechanical engineer and found my way into cybersecurity, where I now work in Identity and Access Management. I'm still learning as I go—and this blog is my way of sharing what I’ve picked up along the way. If you're exploring tech or shifting careers, you're in the right place. 
+I'm **Dave Bellen**. I started out as a mechanical engineer and found my way into cybersecurity, where I now work in Identity and Access Management. I'm still learning as I go—and this blog is my way of sharing what I’ve picked up along the way. If you're exploring tech or shifting careers, you're in the right place. 
 
 ### What I Do
 
