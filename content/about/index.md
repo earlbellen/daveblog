@@ -1,5 +1,5 @@
 ---
-title: "WHOAMI"
+title: "whoami"
 tags: 
 Author: Daven Earl Bellen
 date: 2025-04-24
