@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>davenearl.com/about/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>davenearl.com/tags/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/careershift/</loc>
+    <loc>davenearl.com/tags/careershift/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>davenearl.com/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>davenearl.com/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</loc>
+    <loc>davenearl.com/posts/from-mechanical-engineer-to-cybersecurity-beginner---my-ongoing-career-shift/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/gym/</loc>
+    <loc>davenearl.com/tags/gym/</loc>
   </url><url>
-    <loc>//localhost:1313/tech/</loc>
+    <loc>davenearl.com/tech/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>davenearl.com/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>davenearl.com/tags/</loc>
   </url>
 </urlset>
