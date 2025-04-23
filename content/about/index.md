@@ -9,21 +9,21 @@ date: 2025-04-24
 
 I'm **Daven Earl Bellen**. I started out as a mechanical engineer and found my way into cybersecurity, where I now work in Identity and Access Management. I'm still learning as I go—and this blog is my way of sharing what I’ve picked up along the way. If you're exploring tech or shifting careers, you're in the right place. 
 
-### What I Do
+## What I Do
 
-#### Leveling up with cybersecurity learning platforms:
+### Leveling up with cybersecurity learning platforms:
 
 | Platform       | Link                                                                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | tryhackme.com  | https://tryhackme.com/p/davenger<br><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2697439" style='border:none;'></iframe><br> |
 | hackthebox.com | https://app.hackthebox.com/profile/1813317                                                                                                                   |
 
-#### Projects
+### Projects
 
 All my public projects are in my Github profile: https://github.com/earlbellen
 
 
-### Certifications
+## Certifications
 
 | Certification                                                        | Link                                                                          |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
