@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on davenearl@blog:~$</title>
-    <link>davenearl.com/tags/</link>
+    <link>blog.davenearl.com/tags/</link>
     <description>Recent content in Tags on davenearl@blog:~$</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="davenearl.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.davenearl.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>davenearl.com/tags/blog/</link>
+      <link>blog.davenearl.com/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>davenearl.com/tags/blog/</guid>
+      <guid>blog.davenearl.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Careershift</title>
-      <link>davenearl.com/tags/careershift/</link>
+      <link>blog.davenearl.com/tags/careershift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>davenearl.com/tags/careershift/</guid>
+      <guid>blog.davenearl.com/tags/careershift/</guid>
       <description></description>
     </item>
     <item>
       <title>Gym</title>
-      <link>davenearl.com/tags/gym/</link>
+      <link>blog.davenearl.com/tags/gym/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>davenearl.com/tags/gym/</guid>
+      <guid>blog.davenearl.com/tags/gym/</guid>
       <description></description>
     </item>
   </channel>
