@@ -1,4 +1,4 @@
-baseurl = "blog.davenearl.com"
+baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -68,8 +68,8 @@ pagination.pagerSize = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "Daven Earl Bellen"
-  site = "davenearl.com"
+  creator = ""
+  site = ""
 
 [languages]
   [languages.en]
