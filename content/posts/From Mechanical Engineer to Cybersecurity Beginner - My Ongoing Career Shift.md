@@ -1,6 +1,6 @@
 ---
 title: From Mechanical Engineer to Cybersecurity Beginner - My Ongoing Career Shift
-created: 2025-04-06 22:45
+date: 2025-04-06 22:45
 tags:
   - blog
   - careershift
@@ -10,9 +10,9 @@ Author: Daven Earl Bellen
 
 Four years ago, I was working as a **mechanical engineer**, focused on systems, machines, and processes that you could physically see and touch. It was a solid career—and one I’m still proud of—but something inside me felt restless. I was curious about tech, fascinated by the digital world, and increasingly drawn to the idea of working in **cybersecurity**.
 
-Today, I work as an **IAM (Identity and Access Management) Engineer**. I won’t pretend I have it all figured out. Most days, I still feel like a **beginner**—and in many ways, I am. But I’ve come far enough to look back and say: I’m glad I took the leap.
 ![Image Description](/images/481447166_18033087005536790_5735705168448620462_n.jpg)
 
+Today, I work as an **IAM (Identity and Access Management) Engineer**. I won’t pretend I have it all figured out. Most days, I still feel like a **beginner**—and in many ways, I am. But I’ve come far enough to look back and say: I’m glad I took the leap.
 ### Why I Took the Leap
 
 Like a lot of career shifters, I didn’t start with a degree in Computer Science or any formal training in IT. What I had was **curiosity** and a desire to build something different for myself. I started learning online, asking questions, saying yes to small tasks at work, and leaning into the uncomfortable feeling of not knowing.
