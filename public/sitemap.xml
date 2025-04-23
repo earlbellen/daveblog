@@ -23,8 +23,6 @@
     <loc>/tags/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/credentials/</loc>
@@ -35,6 +33,6 @@
   </url><url>
     <loc>/tags/profile/</loc>
   </url><url>
-    <loc>/about/other/</loc>
+    <loc>/about/</loc>
   </url>
 </urlset>
